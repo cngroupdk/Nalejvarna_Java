@@ -33,3 +33,10 @@ Poďme vyhľadávať s Elasticsearch**\
 🖥️ [Presentation](https://github.com/cngroupdk/Nalejvarna_Java/blob/main/2023_01/Spalek_Lukas/Elasticsearch.pdf)\
 💬 Čo je Elasticsearch? Kedy ho použiť? Ako ho použiť? O týchtoch otázkach budeme spolu diskutovat na našej prednáške a 
 pridáme praktické príklady.
+\
+\
+👨🏻‍💻 **Pavel Košťál**, Java Developer\
+🔥 **Využití AWS a Heroku pro developery\
+🖥️ [Presentation](https://github.com/cngroupdk/Nalejvarna_Java/blob/main/2023_01/Kostal_Pavel/PavelKostal_AWS.pdf)\
+💬 Cloudové technologie jsou velmi populární, ale také mohou být velmi drahé. V přednášce se dozvíte, jak použít AWS a 
+Heroku pro svoje vlastní hobby projekty nebo pro prototypování pracovních věcí, a přitom platit co nejmenší možnou částku.
